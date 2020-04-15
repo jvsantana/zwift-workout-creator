@@ -1,6 +1,6 @@
 # zwift-workout-creator
 
-If you don't want to use Zwift's built in graphical workout creator then you can create the xml files [here](https://randolphburt.github.io/zwift-workout-creator/src/index.html).
+If you don't want to use Zwift's built in graphical workout creator then you can create the xml files [here](https://jvsantana.github.io/zwift-workout-creator/src/index.html).
 
 ## Summary
  * Generate a Zwift workout xml file by specifying the duration of each step along with the power required, as a percentage of the user's ftp - e.g. a value of 50 means 50% of the users ftp value.  
@@ -29,8 +29,3 @@ If you don't want to use Zwift's built in graphical workout creator then you can
 
  * Copy and paste this into a zwo file in your documents/zwift/workouts folder (or subfolder of that).
  * Restart Zwift and load the workout and off you go!
-
-![screenshot](./docs/images/zwiftselectworkout.png)
-
-
-![screenshot](./docs/images/zwiftinworkout.png)
